@@ -52,7 +52,7 @@ More will come. Or maybe they've always been there.
 
 ---
 
-⚙️ ## Why ASCII?
+## ⚙️ Why ASCII?
 
 Because simplicity reveals structure.
 Because the rawest tools often yield the clearest form.
@@ -68,7 +68,7 @@ We are not painting the world - we are spelling it into being.
 
 ---
 
-⚙️ ## Why C?
+## ⚙️ Why C?
 
 Because C is close to the machine - and far from the noise.
 No frameworks. No dependencies. No corporations whispering behind the compiler.
