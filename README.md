@@ -1,6 +1,6 @@
 # Mythogos (Mythos + Logos)
 
-![Mythogos Logo](./assets/logo.png)
+<img src="./assets/logo.png" width="400"/>
 
 If there was a Creator behind this universe, they didn’t just summon it into being - they coded it.  
 Somewhere beneath the chaos, there’s a language. A logic. A hidden syntax that breathes form into matter and order into motion.
