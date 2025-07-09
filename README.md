@@ -1,4 +1,4 @@
-# Mythogos (Mythos + Logos)
+# Mythogos
 
 <img src="./assets/logo.png" width="400"/>
 
